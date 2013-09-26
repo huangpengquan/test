@@ -1,0 +1,1 @@
+ip: When your configuration Activity first opens, set the Activity result to RESULT_CANCELED. This way, if the user backs-out of the Activity before reaching the end, the App Widget host is notified that the configuration was cancelled and the App Widget will not be added.
